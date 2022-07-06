@@ -1,9 +1,5 @@
-# GitHub
+# My very first website
 
-The repo contains the solution code for the *GitHub* lesson.
+Welcome!
+This is a little site created as part of a lesson in the Code Institude course. [Code Instotute](https://codeinstitute.net)
 
-## Contents
-This solution contains solution code to the following units -
-1. *02-setting_up_a_github_remote*
-2. *03-github_pages*
-3. *04-readme_files*
